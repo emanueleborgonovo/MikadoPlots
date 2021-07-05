@@ -5,4 +5,4 @@ Here you find the Matlab subroutines accompanying the paper: "Interactions and C
 
 The subroutine "mikado.m" encodes the Mikado plot algorithm described in Section 7.
 
-The remaining "mikadotests.m" contains several examples, some of which are in the remaining Matlab files.
+The remaining "mikadotest.m" contains several examples, some of which are in the remaining Matlab files.
